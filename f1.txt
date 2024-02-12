@@ -2,7 +2,7 @@ The changes have to be made
 Wrote some changes.
 <<<<<<< HEAD
 	In order to produce a different result, a different approach might be taken.
-
+The only reason is to live a live worth having lived.
 
 
 
