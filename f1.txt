@@ -14,3 +14,7 @@ The changes to make in the branch "a".
 
 Another change in a`
 >>>>>>> a
+
+
+
+Bla bla bla:w
